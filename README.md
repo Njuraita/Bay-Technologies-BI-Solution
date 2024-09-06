@@ -40,4 +40,7 @@ Loading data
 * Or directly read the data from the OneDrive using Azure application- a step by step on how to do this is in the *Azure Application document* uploaded in this repo
 
 2. From the Database
-Use this Code  
+Use this Code
+```dotnetcli
+
+  
