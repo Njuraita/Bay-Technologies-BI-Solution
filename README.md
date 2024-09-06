@@ -2,9 +2,9 @@
 
 End-to-end business intelligence solution for getINNOtized, analyzing 2019 sales data to provide insights that help the business find opportunities to drive more sales and work more efficiently.
 
-**Setting up your Woking Directory**
+Setting up your Woking Directory
 
-*Setting up a Vitual Environment*
+Setting up a Vitual Environment
 
 Use the Codes below
 
@@ -12,13 +12,13 @@ Use the Codes below
 python -m venv env
 ```
 
-*Activate the environment*
+Activate the environment
 
 ```dotnetcli
 venv/Scripts/activate
 ```
 
-*Set up a requirements file for all your libraries*
+Set up a requirements file for all your libraries
 
 use the code below
 
@@ -26,14 +26,18 @@ use the code below
  pip install -r requirements.txt
 ```
 
-*install the packages in the requirements.txt file using the command below*
+install the packages in the requirements.txt file using the command below
 
 ```dotnetcli
 pip install -r requirements.txt
 ```
 
-**Loading data**
+Loading data
 
 1. From the OneDrive
-* Either download the data from *** in this repo
-* Or 
+
+* Download the data from Release (v.1.1)-OneDrive data- in this repo.
+* Or directly read the data from the OneDrive using Azure application- a step by step on how to do this is in the *Azure Application document* uploaded in this repo
+
+2. From the Database
+Use this Code  
