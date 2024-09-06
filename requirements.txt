@@ -1,0 +1,7 @@
+Pandas
+numpy
+requests
+plotly
+scikit-learn
+matplotlib
+
