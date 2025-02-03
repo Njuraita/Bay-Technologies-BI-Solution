@@ -26,7 +26,7 @@ use the code below
  pip install -r requirements.txt
 ```
 
-install the packages in the requirements.txt file using the command below
+install the packages in the requirements.txt file using the command below. Repeat recursively 
 
 ```dotnetcli
 pip install -r requirements.txt

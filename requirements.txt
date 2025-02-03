@@ -1,7 +1,11 @@
 Pandas
+pyodbc
 numpy
 requests
 plotly
 scikit-learn
 matplotlib
-
+plotly
+seaborn
+scipy
+statsmodels
