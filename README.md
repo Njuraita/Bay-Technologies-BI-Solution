@@ -15,7 +15,7 @@ python -m venv env
 Activate the environment
 
 ```dotnetcli
-venv/Scripts/activate
+env/Scripts/activate
 ```
 
 Set up a requirements file for all your libraries
