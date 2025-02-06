@@ -19,8 +19,7 @@
 - [🙏 Acknowledgments](#-acknowledgments)
 - [📝 License](#-license.)
 
-### Bay Technologies Sales Analysis project is an;
-
+#### Bay Technologies Sales Analysis project is an;
 End-to-end business intelligence solution for Bay Technologies Company, analyzing 2019 sales data to provide insights that help the business find opportunities to drive more sales and work more efficiently.
 
 ### 🛠 Built With
