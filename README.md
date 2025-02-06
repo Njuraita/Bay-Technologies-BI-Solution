@@ -2,6 +2,7 @@
 # Bay Technologies 2019 Sales Analysis Project
 
 ## 📊 Dashboard Preview
+
 ![Dashboard Preview](Data\Bay_BI.PNG)
 
 ## 📖 Table of Contents
