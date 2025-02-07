@@ -3,7 +3,8 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](data\bay_bi.PNG)
+![Dashboard Preview](https://raw.githubusercontent.com/Njuraita/Bay-Technologies-BI-Solution/main/data/bay_bi.PNG)
+
 
 ## 📖 Table of Contents
 - [Bay Technologies Sales Analysis](#Bay-Technologies-Sales-Analysis)
