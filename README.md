@@ -3,7 +3,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Data\Bay_BI.PNG)
+![Dashboard Preview](Data\bay_bi.PNG)
 
 ## 📖 Table of Contents
 - [Bay Technologies Sales Analysis](#Bay-Technologies-Sales-Analysis)
